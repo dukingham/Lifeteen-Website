@@ -1,0 +1,92 @@
+#banner {
+    display: block;
+    height: 98px;
+}
+
+#banner .img img {
+    height: auto;
+    margin-top: 175px;
+    border-radius: 5%;
+    display: block;
+    width: 50%;
+    padding-left: 0px;
+}
+
+.mission {
+    color: #ffffffd2;
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    width: 50%;
+    font-size: x-large; 
+    text-align: center;
+    margin-top: 300px;
+    font-weight: 100;
+    font-style: italic;
+    height: auto;
+}
+
+#upcoming .lifeNight img {
+    width: 400px;
+} 
+
+h1 {
+    padding-top: 700px;
+    text-align: center;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #ffffffd2;
+    letter-spacing: 6px;
+    /* border-bottom: #27272b solid 20px; */
+    text-decoration: underline;
+}
+
+h2 {
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+
+.lifeNight{
+    text-align: center;
+    line-height: 10px;
+    padding-top: 40px;
+}
+
+.lifeNight h2 {
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    
+   
+}
+#upcoming h3{
+    text-align: center;
+    font-weight: 300;
+    color: #27272b;
+
+}
+
+.retreat h2 {
+    margin: 0;
+    
+}
+
+h2.retreatTitle {
+    padding-top: 40px;
+}
+
+.retreat h3 {
+    line-height: 10px;
+}
+
+.retreat img {
+    width: 400px;
+    margin-left: 36%;
+}
+
+.retreat a {
+    
+    color: #000;
+}
+
