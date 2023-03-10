@@ -65,6 +65,12 @@ h3 {
     font-weight: 300;
 }
 
+.retreat h3 {
+    font-weight: 300;
+    line-height: 10px;
+    text-align: center;
+}
+
 .retreat img {
     width: 400px;
 }
