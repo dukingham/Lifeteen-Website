@@ -51,19 +51,26 @@ h3 {
 }
 
 .lifeNight{
-    text-align: center;
-    line-height: 10px;
+
     margin-top: 100px;
+}
+
+.lifeNight img {
+    max-width: 35%;
 }
 
 .lifeNight h2 {
     font-weight: 400;
     text-transform: uppercase;
     text-align: center;
+   
+    
 }
 .lifeNight h3{
     text-align: center;
     font-weight: 300;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 .retreat {
     margin-top: 75px;
