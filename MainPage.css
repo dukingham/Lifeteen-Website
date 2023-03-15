@@ -26,18 +26,11 @@
 
 }
 
-#upComing .lifeNight img {
-    width: 400px;
-    
-} 
-
 h1 {
     padding-top: 630px;
     text-align: center;
     font-weight: 500;
     text-transform: uppercase;
-  
-    
 }
 
 h2 {
@@ -50,8 +43,15 @@ h3 {
     font-family: 'Montserrat', sans-serif;
 }
 
-.lifeNight{
+#upcomming h1{
+    text-decoration: underline;
+}
 
+#upComing .lifeNight img {
+    width: 400px;
+} 
+
+.lifeNight{
     margin-top: 100px;
 }
 
@@ -72,9 +72,22 @@ h3 {
     margin-left: 20%;
     margin-right: 20%;
 }
-.retreat {
-    margin-top: 75px;
+
+.lifeNight p {
+    margin: 0 20% 0 20%;
 }
+
+.retreat {
+    margin-top: 130px;
+}
+
+
+.retreat h2 {
+    text-align: center;
+    margin-left: 32.5%;
+    margin-right: 32.5%;
+}
+
 .retreat h3 {
     font-weight: 300;
     text-align: center;
