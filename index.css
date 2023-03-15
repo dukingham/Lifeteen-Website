@@ -26,7 +26,7 @@ a {
 }
 
 .navagation {
-    background-color: #000000;
+    background-color: #0000004f;
     display: block;
     text-align: center;
     padding: 0;
@@ -45,7 +45,7 @@ a {
     font-size: 30px;
     font-weight: 300;
     display: inline-block;
-    color: #ffffffd2;
+    color: #ffffff;
     font-family: 'Montserrat', sans-serif;
 }
 
