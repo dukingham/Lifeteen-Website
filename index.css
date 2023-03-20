@@ -27,6 +27,7 @@ a {
 
 .navagation {
     background-color: #0000004f;
+    box-sizing: border-box;
     display: block;
     text-align: center;
     padding: 0;
@@ -74,7 +75,7 @@ li:hover {
 .footer {
     width: 100%;
     padding-top: 30px;
-    color: #808080;
+    color: #454545;
     margin: 0 0 0 0;
     text-align: center;
 }
