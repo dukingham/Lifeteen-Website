@@ -1,9 +1,10 @@
-#banner {
+.banner {
     display: block;
     height: 98px;
+
 }
 
-#banner .img img {
+.banner .img img {
     height: auto;
     margin-top: 160px;
     border-radius: 5%;
@@ -27,7 +28,6 @@
 }
 
 h1 {
-    padding-top: 630px;
     text-align: center;
     font-weight: 500;
     text-transform: uppercase;
@@ -43,11 +43,13 @@ h3 {
     font-family: 'Montserrat', sans-serif;
 }
 
-#upcomming h1{
+.upcomming h1{
+    padding-top: 630px;
     text-decoration: underline;
+    margin-top: 350px;
 }
 
-#upComing .lifeNight img {
+.upComing .lifeNight img {
     width: 400px;
 } 
 
